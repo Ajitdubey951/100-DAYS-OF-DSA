@@ -1,0 +1,4 @@
+﻿setup_commits.ps1
+cleanup_files.ps1
+recreate_and_push.ps1
+*.ps1
